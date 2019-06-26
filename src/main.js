@@ -1,7 +1,9 @@
+import 'styles/font-awesome.css';
+import 'styles/reset.css';
+import 'styles/border.css';
 import Vue from 'vue';
 import App from './App';
 import router from './router';
-import './assets/styles/reset.css';
 
 Vue.config.productionTip = false;
 
